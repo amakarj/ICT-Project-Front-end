@@ -1,5 +1,5 @@
 # ICT-Project-Front-end
-**This repository is the frontend part of our [ICT Project](https://github.com/A-d-f/ICT-Project) made for Häme University of Applied Sciences and Cinia Oy.**  
+**This repository is the frontend part of our [ICT Project](https://github.com/amakarj/ICT-Project) made for Häme University of Applied Sciences and Cinia Oy.**  
 **The project goal was to create a proof of concept - how could speech recognition be utilized in emergency call processes.**
 
 Team:  [Anna-Maria Palm](https://github.com/A-d-f), [Jenna Hakkarainen](https://github.com/jenhakk), [Amanda Karjalainen](https://github.com/amakarj), [Waltteri Grek](https://github.com/GreWalw)
